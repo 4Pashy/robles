@@ -1,0 +1,30 @@
+.mainHeader {
+  border: 1px solid black;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  gap: 1rem;
+}
+
+.mainLogoImage {
+  border: 1px solid black;
+  height: 100px;
+}
+
+.buttons {
+  padding: 10px;
+  margin: 0;
+}
+
+.navBarUl {
+  border: 1px solid;
+  list-style: none;
+  display: flex;
+  margin: 0;
+  gap: 1rem;
+}
+
+li {
+  border: 1px solid;
+  padding: 10px;
+}
